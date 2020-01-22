@@ -1,2 +1,3 @@
-#wpu-resolusi
-  wpu untuk menyimpan rencana tahun depan
+wpu-resolusi
+  
+wpu untuk menyimpan rencana tahun depan
