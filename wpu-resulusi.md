@@ -1,3 +1,2 @@
-# resolusi-tahun-ini:
-dapat menguasai:
--HTML5
+#wpu-resolusi
+  wpu untuk menyimpan rencana tahun depan
